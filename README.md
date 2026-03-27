@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @PerinMu
-- 👀 I’m interested in Formula 1, space exploration, Minecraft, clarinet...
-- 🌱 I’m currently learning Biotech.
-- 💞️ I’m looking to collaborate on ???
-- 📫 How to reach me: erinxmy@gmail.com
+# Hi, I'm PerinMu
 
-<!---
-PerinMu/PerinMu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an undergraduate student in Biotechnology who is beginning to explore computational biology, protein design, and bioinformatics. I'm interested in learning how computational methods can be used to study biological questions, especially in protein structure, molecular interactions, and therapeutic design.
+
+## Interests
+- Computational biology
+- Protein design
+- Structural biology
+- Bioinformatics
+
+## Currently learning
+- Python for biological data analysis
+- Protein structure and interaction analysis
+- Computational tools for sequence and structure modeling
+
+## Contact
+Feel free to connect with me through erinxmy@gmail.com
